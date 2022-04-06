@@ -16,12 +16,14 @@ Education
   Shenzhen Institute of Advanced Technology,<br>
   University of Chinese Academy of Sciences, Beijing, China.<br>
 
-  
-  
 * Sept. 2014 – Jun. 2018.<br>
   B.Sc. in Computer Science and Technology,<br>
   School of Computer Science,<br>
   China University of Geosciences, Wuhan, China.<br>
+
+* Sept. 2014 – Now.<br>
+  Department of Computer Science,<br>
+  City University of Hong Kong, Hong Kong, China.<br>
 
   
 
